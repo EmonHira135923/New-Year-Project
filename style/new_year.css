@@ -18,6 +18,8 @@
     height: 0 auto;
     width: 0 auto;
     color: white;
+    font-size: 25px;
+    font-weight: normal;
 }
 
 
@@ -31,8 +33,8 @@
     margin-top: 100px;
     padding: 40px;
     gap: 50px;
-    font-size: 30px;
-}
+    /* font-size: 30px;*/
+} 
 
 
 .txt-right{
@@ -57,7 +59,7 @@
     padding: 20px;
     display: flex;
     justify-content: center;
-    font-size: 30px;
+    /* font-size: 30px; */
 }
 
 .fa-brands{
@@ -81,18 +83,17 @@
     width: 1600px;
     margin-top: 50px;
     margin-bottom: 50px;
-    font-size: 25px;
+    /* font-size: 25px; */
 }
 
-.copy,.unsub{
+/* .copy,.unsub{
     font-size: 28px;
-}
+} */
 
 
 .last-part-div{
     display: flex;
     justify-content: space-around;
     margin-top: 35px;
-    margin-bottom: 35px;
     padding: 35px;
 }
