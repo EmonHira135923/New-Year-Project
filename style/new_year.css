@@ -74,6 +74,11 @@
     color: rgb(3,252,198);
 }
 
+.fa-solid:hover{
+    cursor: pointer;
+    color: rgb(3,252,198);
+}
+
 .last-part-hr{
     display: flex;
     padding: 30px;
