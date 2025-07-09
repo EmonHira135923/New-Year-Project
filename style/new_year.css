@@ -6,13 +6,68 @@
 
 
 
+/* Holiday section  */
+
+.Holiday Section{
+    height: 0 auto;
+    width: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+
+.Holiday-container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.Holiday-txt{
+    text-align: center;
+}
+
+
+.hd-h6{
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.hd-h1{
+    font-size: 55px;
+    font-weight: bolder;
+    margin-bottom: 30px;
+}
+
+.holiday-s{
+    color: red;
+}
+
+.hd-p{
+    color: gray;
+    font-size: 20px;
+    margin-bottom: 45px;
+}
+
+.img-last-part{
+    background-image: url('../img and icons/images/Rectangle\ 2.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin-bottom: 50px;
+}
+
+.img-44{
+    position: absolute;
+}
 
 /* About Section */
 
 .About-section{
     height: 0 auto;
     width: 0 auto;
+    margin-top: 100px;
 }
+
+
 
 .text-contain{
     margin-top: 60px;
