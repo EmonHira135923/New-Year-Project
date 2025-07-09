@@ -5,6 +5,51 @@
 }
 
 
+/* place section */
+
+.place-section{
+    height: 0 auto;
+    width: 0 auto;
+    padding: 50px;
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+
+.place-container{
+    text-align: center;
+    background-color: pink;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.place-p{
+    font-size: 30px;
+    font-weight: bolder;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+
+.btn-place{
+    border: 2px solid red;
+    padding: 25px;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+}
+
+.btn-place:hover{
+    color: black;
+    cursor: pointer;
+    background-color: wheat;
+    border: #070211;
+}
+
+.span-place{
+    color: red;
+    font-size: 25px;
+    font-weight: bold;
+}
 
 /* Offer Section */
 
