@@ -5,6 +5,45 @@
 }
 
 
+/* new-year section */
+
+.new-year-section{
+    height: 0 auto;
+    width: 0 auto;
+}
+
+.new-year-container{
+    padding: 30px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.img-container{
+    background-image: url('../img and icons/images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+.new-year-text{
+    margin-bottom: 60px;
+    padding: 90px;
+}
+
+.new-h6{
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 40px;
+}
+
+.new-h1{
+    font-size: 45px;
+    font-weight: bolder;
+    margin-bottom: 30px;
+    color: black;
+}
+
 
 /* Marketing section */
 
@@ -59,7 +98,7 @@
 .party-img{
     background-image: url('../img and icons/images/Vectorrr.png');
     background-repeat: no-repeat;
-    height: 450px;
+    height: 550px;
     padding: 30px;
     margin-top: 50px;
     display: flex;
