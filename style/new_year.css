@@ -7,6 +7,47 @@
 
 
 
+/* About Section */
+
+.About-section{
+    height: 0 auto;
+    width: 0 auto;
+}
+
+.text-contain{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.text-h6{
+    font-size: 30px;
+    font-weight: normal;
+    color: red;
+    margin-bottom: 30px;
+}
+
+.text-h1{
+    font-size: 40px;
+    font-weight: bolder;
+    margin-bottom: 30px;
+}
+
+.text-p{
+    color: gray;
+    font-size: 20px;
+}
+
+
+.about-img-section{
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    background-color: #070211;
+    padding: 5px;
+}
+
+
 
 
 
