@@ -6,7 +6,39 @@
 
 
 
+/* Marketing section */
 
+.marketing-section{
+    height: 0px auto;
+    width: 0px auto;
+}
+
+.marketing-container{
+    text-align: center;
+    margin-top: 60px;
+    padding: 40px;
+}
+
+.m-h1{
+    color: red;
+    font-size: 55px;
+    font-weight: bolder;
+    margin-bottom: 30px;
+}
+
+.m-h6{
+    color: red;
+    font-size: 25px;
+    font-weight: normal;
+    margin-bottom: 30px;
+}
+
+.m-h3{
+    color: #070211;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 35px;
+}
 
 
 /* Welcome section */
